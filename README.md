@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MindMirror AI
 
 پلتفرم هوش مصنوعی برای تحلیل داده‌های مغزی و احساسی
@@ -54,3 +55,6 @@ DATABASE_URL=postgresql://user:pass@localhost:5432/db
 SECRET_KEY=your_secret_key
 ...
 ``` 
+=======
+# mindmirror
+>>>>>>> 16629ac999ac88697a961fb1267647ba8cd0e5f3
